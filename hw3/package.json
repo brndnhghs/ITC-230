@@ -1,0 +1,24 @@
+{
+  "name": "hw3",
+  "version": "1.0.0",
+  "description": "hw3",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Brandon Hughes",
+  "license": "ISC",
+  "keywords": [
+    "hw3"
+  ],
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brndnhghs"
+  }
+}
